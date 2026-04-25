@@ -1,2 +1,3 @@
-2026/04/25-01:14:33.389 17d8 Creating DB C:\Action-Roguelike-UE5\ActionRoguelike\Saved\webcache_6613\Default\Local Storage\leveldb since it was missing.
-2026/04/25-01:14:33.413 17d8 Reusing MANIFEST C:\Action-Roguelike-UE5\ActionRoguelike\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
+2026/04/25-23:26:23.893 3638 Reusing MANIFEST C:\Action-Roguelike-UE5\ActionRoguelike\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
+2026/04/25-23:26:23.897 3638 Recovering log #3
+2026/04/25-23:26:23.900 3638 Reusing old log C:\Action-Roguelike-UE5\ActionRoguelike\Saved\webcache_6613\Default\Local Storage\leveldb/000003.log 

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ActionRoguelikeModuleRules")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Development")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2a57887d744c8638dd4d241cda4aec3a31394854")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3ad10dd1b4d35886a33bdc3a8568592f94b56302")]
 [assembly: System.Reflection.AssemblyProductAttribute("ActionRoguelikeModuleRules")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ActionRoguelikeModuleRules")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
