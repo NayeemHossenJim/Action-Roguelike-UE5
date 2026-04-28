@@ -1,7 +1,0 @@
-[1812:10652:0426/001452.985:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[1812:14972:0426/001453.397:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[1812:10652:0426/001453.557:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[1812:14972:0426/001454.313:ERROR:external_registry_loader_win.cc(144)] Missing value path for key Software\Google\Chrome\Extensions\ngpampappnmepgilojfohadhhmbhlaek.
-[1812:10652:0426/001500.792:WARNING:extension_service.cc(2034)] Found external version of extension dpadflhmiohjfhhaehelneimpllfbpcgthat is older than current version. Current version is: 1.2.2. New version is: 0.0.5. Keeping current version.
-[3060:15952:0426/001504.134:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-93E213444C8C744B5EC6E2CB7E9B1C52 will be ignored
-[1812:10652:0426/001718.104:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

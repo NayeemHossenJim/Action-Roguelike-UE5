@@ -1,9 +1,0 @@
-{
-	"RemapUnityFiles": 
-	{
-		"Module.ActionRoguelike.gen.cpp.obj": [
-			"ActionRoguelike.init.gen.cpp.obj",
-			"SCharacter.gen.cpp.obj"
-		]
-	}
-}
