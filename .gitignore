@@ -75,3 +75,6 @@ Config/steamvr_ue_editor_app.json
 Config/SteamVRBindings
 Platforms/HoloLens/Config/HoloLensEngine.ini
 .vsconfig
+
+# Ignore al large content files
+Content/Dark_knight
