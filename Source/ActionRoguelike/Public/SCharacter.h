@@ -25,4 +25,6 @@ protected:
 	
 	UPROPERTY(VisibleAnywhere, Category = "Components")
 	UCameraComponent* CameraComp;
+
+	void MoveForward(float Value);
 };
